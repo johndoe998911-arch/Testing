@@ -1,0 +1,1 @@
+workspace["Platform Peril"].Lava:Destroy()
