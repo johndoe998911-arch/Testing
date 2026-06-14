@@ -1,3 +1,5 @@
+print("%lol%^")
+task.wait(7)
 local GoalPart = workspace["Hedge Way Out"].Goal:GetChildren()[1]
 local Root = game.Players.LocalPlayer.Character.HumanoidRootPart
 
